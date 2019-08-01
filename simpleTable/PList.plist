@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>States</key>
+	<array>
+		<string>Andhrapradesh</string>
+		<string>Telangana</string>
+		<string>Madyapradesh</string>
+	</array>
+	<key>Student</key>
+	<dict>
+		<key>Sname</key>
+		<string>ravi</string>
+		<key>Sage</key>
+		<string>12</string>
+		<key>Sclass</key>
+		<string>xii</string>
+	</dict>
+	<key>Teacher</key>
+	<dict>
+		<key>Tname</key>
+		<string>Naidu</string>
+		<key>Tsubject</key>
+		<string>physics</string>
+		<key>Texp</key>
+		<string>five</string>
+	</dict>
+</dict>
+</plist>
